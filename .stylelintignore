@@ -1,0 +1,11 @@
+# # https://stylelint.io/user-guide/ignore-code
+# dist/*
+package-lock.json
+package.json
+# # layouts/default.vue
+# # pages/index.vue
+node_modules
+src/static
+src/assets
+10.0.0.8-key.pem
+10.0.0.8.pem
